@@ -20,4 +20,10 @@ maxwell gpu + arm cortex a57 + 4gb lpddr4 + 16gb emmc
 can we use any usb web cam
 or can we webrtc stream a lan laptop camera
 
+sebastien domine, tegra x1 dev tools
+gtc 2015 nsight cuda nvprof gpu debug
+jetpack dev pack 4.4.1
+
+https://developer.nvidia.com/embedded/jetpack
+
 

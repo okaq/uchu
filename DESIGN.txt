@@ -1,0 +1,15 @@
+game design notes
+created by Aq
+<aq@okaq.com>
+2020-11-02
+
+naive algo for filling 2D plane
+with random size spheres
+
+start with bitmap size WxH
+pick point p0 off center
+subdived rect into quads
+fill quad with random offset sphere
+auto non intersecting
+
+

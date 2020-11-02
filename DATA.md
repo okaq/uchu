@@ -26,4 +26,18 @@ jetpack dev pack 4.4.1
 
 https://developer.nvidia.com/embedded/jetpack
 
+tegra x1 mobile super chip
+256 core maxwell gpu
+8 core 64 bit arm cpu
+60 fps 4k video (h.265/vp9)
+20 nm fab process
+teraflops graphics 
+opengl 4.5, aep, dx12, cuda 6.0
+
+https://developer.nvidia.com/gameworks
+
+HEVC decoding and encoding ffmpeg
+https://github.com/jocover/jetson-ffmpeg
+
+
 
